@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398173211530",
+    "project_id": "ahmaddb",
+    "storage_bucket": "ahmaddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398173211530:android:fc00508952e1f9ce869673",
+        "android_client_info": {
+          "package_name": "com.example.ahmadr4_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2zKenFWxB1ek7RdXl-Agqyr5I9a6weU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398173211530:android:76ce37b6db037502869673",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2zKenFWxB1ek7RdXl-Agqyr5I9a6weU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
