@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">398173211530</string>
+    <string name="google_api_key" translatable="false">AIzaSyDK2zKenFWxB1ek7RdXl-Agqyr5I9a6weU</string>
+    <string name="google_app_id" translatable="false">1:398173211530:android:fc00508952e1f9ce869673</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDK2zKenFWxB1ek7RdXl-Agqyr5I9a6weU</string>
+    <string name="google_storage_bucket" translatable="false">ahmaddb.firebasestorage.app</string>
+    <string name="project_id" translatable="false">ahmaddb</string>
+</resources>
